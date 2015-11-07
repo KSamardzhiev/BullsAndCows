@@ -1,4 +1,4 @@
-package com.game;
+package com.game.ksamardzhiev;
 
 import java.util.Arrays;
 import java.util.Random;
@@ -54,8 +54,5 @@ public class Number {
 	public int[] getDigits(){
 		return Arrays.copyOf(this.digits, this.digits.length);
 	}
-	
-	
-	
-	
+
 }

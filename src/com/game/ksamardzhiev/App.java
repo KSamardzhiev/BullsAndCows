@@ -1,4 +1,4 @@
-package com.game;
+package com.game.ksamardzhiev;
 
 import java.util.Scanner;
 
